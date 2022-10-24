@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Jenfer93/environment#readme",
   "devDependencies": {
     "webpack": "^5.74.0"
+  },
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
   }
 }
