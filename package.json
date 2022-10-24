@@ -21,8 +21,5 @@
   "devDependencies": {
     "prettier": "^2.7.1",
     "webpack": "^5.74.0"
-  },
-  "dependencies": {
-    "one-liner-joke": "^1.2.2"
   }
 }
